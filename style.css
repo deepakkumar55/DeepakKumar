@@ -503,7 +503,8 @@ body {
     min-height: 50vh;
   }
   #Home-right #img{
-    height: 100%;
+    height: 100vh;
+    width:80%;
     transform: translate(-50%,-50%);
   }
   #About{
